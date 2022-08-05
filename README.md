@@ -1,7 +1,7 @@
-### Hi there 👋
+### Welcome to my page :)
 
 <!--
-**nicksome168/nicksome168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YutaUtah/YutaUtah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://github-readme-stats.vercel.app/api?username=nicksome168&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -1,8 +1,8 @@
 # 👋 Hello
 
-I'm an Information Systems graduate student at NYU based in New York🗽. I love web app devlopment and public cloud services.
+I'm a comsci graduate student at NYU Courant based in New York🗽. I love web app development and public cloud services.
 
-I'm looking for 2023 Summer Software Engineer Internships and currently working on LeetCode problems with a [study group](https://hackmd.io/yPLWnX2FQEyztwaCqPhy8w). Feel free to hit me up and have a chat! 😊
+I'm looking for a 2024 Software Engineer position. Feel free to hit me up and have a chat! 😊
 
 &nbsp;
 
@@ -29,7 +29,7 @@ I'm looking for 2023 Summer Software Engineer Internships and currently working 
 
 &nbsp;
 
-## 🖥 &nbsp;Past projects
+## 🖥 &nbsp;Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=2021-NTU-NLP-final&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/2021-NTU-NLP-final)
 &nbsp;

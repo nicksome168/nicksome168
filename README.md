@@ -1,12 +1,16 @@
 # 👋 Hello
 
-I'm a comsci graduate student at NYU Courant based in New York🗽. I love web app development and public cloud services.
+📍 I'm a ComSci graduate student at NYU Courant in nyc
 
-I'm looking for a 2024 Software Engineer position. Feel free to hit me up and have a chat! 😊
+💼 I'm looking for a 2024 Software Engineer position
+
+💻 I love web app development and public cloud services
+
+📖 LeetCode [study group](https://hackmd.io/yPLWnX2FQEyztwaCqPhy8w)
+
+Feel free to hit me up and have a chat! 😊
 
 &nbsp;
-
-<table><tr><td valign="top" width="50%">
 
 ### ✏️ &nbsp;Blogs
 <!-- blog starts -->
@@ -18,31 +22,20 @@ I'm looking for a 2024 Software Engineer position. Feel free to hit me up and ha
 
 [Azure-Backup](https://github.com/nicksome168/Azure-Backup)
 
-</td><td valign="top" width="50%">
-
 ### 📖 &nbsp;Documentations
 [Glossika Metagraph Doc](https://hackmd.io/Ys0_N5gRQx-4M8Hlj62TKw)
 
 [FOREMOST Crawler Doc](https://hackmd.io/TgW03YO0TGS4F8lE2YA8-Q)
-
-</td></tr></table>
 
 &nbsp;
 
 ## 🖥 &nbsp;Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=2021-NTU-NLP-final&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/2021-NTU-NLP-final)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lewiechiu&repo=club-house-distributed&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/lewiechiu/club-house-distributed)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuchu&repo=dorm-alloc-sys&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/shaoyuchu/dorm-alloc-sys)
-
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
-
-![Nick' Github Stats](https://github-readme-stats.vercel.app/api?username=nicksome168&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicksome168&theme=dark&count_private=true&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)
 

@@ -6,8 +6,6 @@
 
 💻 I love web app development and public cloud services
 
-📖 LeetCode [study group](https://hackmd.io/yPLWnX2FQEyztwaCqPhy8w)
-
 Feel free to hit me up and have a chat! 😊
 
 &nbsp;

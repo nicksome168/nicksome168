@@ -29,6 +29,9 @@ Feel free to hit me up and have a chat! 😊
 
 ## 🖥 &nbsp;Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=aws-concierge-bot&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/aws-concierge-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=aws-eks-demo&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/aws-eks-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=aws-ai-album&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/aws-ai-album)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicksome168&repo=2021-NTU-NLP-final&bg_color=0d1116&title_color=1c45d9&text_color=a4aacb&icon_color=007ec6)](https://github.com/nicksome168/2021-NTU-NLP-final)
 
 &nbsp;

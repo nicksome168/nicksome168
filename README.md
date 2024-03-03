@@ -1,12 +1,14 @@
 #cloud #platform #devops #swe
 
+[my gitlab twin](https://dev.hsrn.nyu.edu/yc6371)
+
 ## Projects
 ### Cloud (Terraform)
 - [aws-ai-chatflow](https://github.com/nicksome168/ai-chatflow)
 - [aws-ai-album](https://github.com/nicksome168/aws-ai-album)
 - [aws-eks-demo](https://github.com/nicksome168/aws-eks-demo)
-- [aws-concierge-bot](https://github.com/nicksome168/aws-concierge-bot)
 - [aws-ci-for-s3-website](https://hackmd.io/PkJC6mTqRd2hzhWycRNzKw)
+- [aws-concierge-bot](https://github.com/nicksome168/aws-concierge-bot) (via portal)
 - [cloud-computing](https://github.com/nicksome168/cloud-computing)
 - [azure-backup](https://github.com/nicksome168/azure-backup) (via portal)
 - [azure-vm](https://github.com/nicksome168/azure-backup/azure-vm) (via portal)
